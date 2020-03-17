@@ -1,4 +1,4 @@
-# Mit første Repo på GutHub
+# Mit første Repo på GitHub
 
 Til at teste og afprøve github.
 Med Commits -Branches og Pull requests
@@ -9,3 +9,5 @@ Med Commits -Branches og Pull requests
 `if(x > 4){
 return false;
 } ` 
+---
+There can be no GutHub  only Git
